@@ -15,10 +15,13 @@ Finally, connect your RP2040 to the LED in the following manner:
 
 
 The GIF of LED blinking is seen below.
+![](https://github.com/satyajeetburla/Lab-2B-Proposal/blob/main/GIF/Blink.gif)
+![](https://github.com/satyajeetburla/Lab-2B-Proposal/blob/main/GIF/UART.gif)
 
 
 # Circuit Board Proposal
 
+Firstly, We are planning to design an 7-segment display using LED. Then we want to use a brightness sensor (LDR sensor / APDS 9960) to detect brightness and display it using our custom designed 7-segment display in relative terms of 0 - 9.
 For the next lab, I've opted to build a circuit utilizing an RP2040, a breadboard, an LDR sensor, a 7-Segment LED display, and Jumper Wires that will sense the brightness using the LDR sensor and then show a value ranging from 0 to 9 based on the brightness value.
 
 Although my main goal is to sense the brightness of the room using LDR sensor and display a normalized value using LEDs creating a 7-segement display. After that I will move forward to display its value in a real 7-segment display.
