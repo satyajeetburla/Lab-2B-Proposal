@@ -1,4 +1,4 @@
-# lab2b_esp
+# ESE 519: Lab 2B Expansion Board Proposal
 
 To test and blink the LED, I did the following procedures, as described in the lab handbook.
 
