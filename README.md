@@ -14,9 +14,9 @@ Finally, connect your RP2040 to the LED in the following manner:
 6. Connected the GPIO data pin, NOT THE POWER. PIN, to the breadboard's power pin
 
 
-The GIF of LED blinking is seen below.
-![](https://github.com/satyajeetburla/Lab-2B-Proposal/blob/main/GIF/Blink.gif)
-![](https://github.com/satyajeetburla/Lab-2B-Proposal/blob/main/GIF/UART.gif)
+The GIF of LED blinking is seen below.</Br>
+![](https://github.com/satyajeetburla/Lab-2B-Proposal/blob/main/GIF/Blink.gif)</Br>
+![](https://github.com/satyajeetburla/Lab-2B-Proposal/blob/main/GIF/UART.gif)</Br>
 
 
 # Circuit Board Proposal
