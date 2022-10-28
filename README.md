@@ -39,9 +39,9 @@ The components that we will be using are shown below.
 
 We already have a breadboard, an RP2040, and three LEDs from the aforementioned components. We intend to acquire additional components from Detkin Lab.
 # What our circuit Does?</Br>
-We collect the brightness value using the APDS 9960 sensor and convert it into relative range between 0 - 9. Where O being the least brightness and 9 being the maximum brightness.</Br>
-Then we control the LED brightness as per the fluctuation in brightness value.</Br>
-We also so our relative brightness value using a 7-segment display.</Br>
+1. We collect the brightness value using the APDS 9960 sensor and convert it into relative range between 0 - 9. Where O being the least brightness and 9 being the maximum brightness.</Br>
+2. Then we control the LED brightness as per the fluctuation in brightness value.</Br>
+3. We also so our relative brightness value using a 7-segment display.</Br>
 
 # Implementation:</Br>
 1. Bread Board Implementation of Circuit.</Br>
